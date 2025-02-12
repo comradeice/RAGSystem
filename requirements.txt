@@ -1,0 +1,14 @@
+duckduckgo-search
+fastapi
+openai
+packaging
+phidata
+python-dotenv
+pgvector
+psycopg[binary]
+python-multipart
+pypdf bs4
+sqlalchemy
+tavily-python
+uvicorn
+yfinance
