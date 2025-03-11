@@ -1,5 +1,5 @@
 # RAGSystem
-Building a Multi-Modal AI Agent with an Enhanced Retrieval Augmented Generation(RAG) System for Web Search, Stock and Cryptocurrency Investment Analysis.
+Building a Multi-Modal AI Agent with an Enhanced Retrieval Augmented Generation(RAG) System for Stock and Cryptocurrency Investment.
 
 This project shows how to build a multi-modal AI agent system for web search, stock analysis and cryptocurrency analysis using combined knowledge from PDF URLs, URLs and local PDF Retrieval Augmented Generation (RAG) system to generate more accurate responses.
 
